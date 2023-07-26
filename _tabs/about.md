@@ -15,7 +15,7 @@ order: 4
 
 ## Working Experience
 
-#### Intertek NTA (Technical Analyst - System Administrator , 2023/07 - present) 
+#### Intertek NTA (Technical Executive - System Administrator , 2023/07 - present) 
 
 * Maintaining equipment (Windows laptops, Linux machines, virtual windows machines, wireless testing devices, hardware, firewalls, and training equipment).
 * Configuration and deployment of virtual and physical Windows and Linux machines to support the delivery of customer facing projects.
