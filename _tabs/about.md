@@ -4,59 +4,45 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Professional Experience
+# Casualwriter  
 
-### Member, Industry Capstone Project Team <time> Jan 2023 - Jun 2023 </time>
+## Executive Summary
 
-<location> Department of Chemical Engineering, University of Washington <br/> Membrion, Inc. </location>
+* 10 years project/team management experience
+* PMP, OCP, AWS Certification
+* Hand-on experience in oracle database
+* Proficient in JavaScript, Java, Powerbuilder
 
-## Service
+## Working Experience
 
-### Chemical Engineering Peer Mentor <time> Mar 2023 – Jun 2023 </time>
+#### Current Company (Project Manager, 2015/08 - present) 
 
-<location> Department of Chemical Engineering, University of Washington </location>
+* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
+* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
 
-### Undergraduate Representative, Faculty Search Committee <time> Jan 2023 – Feb 2023 </time>
+#### Second Company (System Analyst, 2011/06 - 2015/07) 
 
-<location> Department of Chemical Engineering, University of Washington </location>
+* Led team of 5 for application development
+* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
 
-### Undergraduate Research Leader <time> Sep 2022 – Jun 2023 </time>
+#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
 
-<location> Undergraduate Research Program, University of Washington </location>
+* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
 
-### Webmaster <time> Apr 2022 – Jun 2023 </time>
+## Projects: 
 
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
+* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
+* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
 
-### Secretary <time> May 2021 – Jun 2023 </time>
+## Education & Qualifications
 
-<location> Women in Chemical Engineering, University of Washington </location>
+* AWS Certification (2021/12)
+* Oracle Certified Professional (2020/02)
+* Project Management Professional (PMP) (2018/10)
+* Bachelor of Computer Science (Sep 2004)
+* The Chinese University of Hong Kong (2000 - 2004)
 
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
+## Misc. Information
 
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-### Maple Hall Council Sustainability Representative <time> Oct 2019 – Mar 2020 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-<!-- ## Professional Affiliation // professor level-->
-<!-- ## Student Mentoring // graduate level-->
-
-## Education
-
-### University of California, Berkeley | <location> Berkeley, CA, USA </location> <time> Starting Aug 2023 </time>
-
-- Ph.D. student, Chemical and Biomolecular Engineering
-
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 - Jun 2023 </time>
-
-- B.S. in Chemical Engineering: Nanoscience and Molecular Engineering, *summa cum laude*
-- Minor in Applied Mathematics and Chemistry
-- Focus Area on Bio & Biomedical Materials, Interfaces, and Systems
-- Honors Thesis: Quantifying Microglia Morphological Response to Injury and Treatment Across Species with Unsupervised Machine Learning
-
-## Honors & Awards
-
-#### Vice Chancellor's Award | <location> University Teknologi Mara </location> <time> 2019 - 2021 </time>
-<!-- ## Publications -->
+* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Availability: 1 month's notice
