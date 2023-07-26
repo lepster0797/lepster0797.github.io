@@ -15,34 +15,46 @@ order: 4
 
 ## Working Experience
 
-#### Current Company (Project Manager, 2015/08 - present) 
+#### Intertek NTA (Technical Analyst - System Administrator , 2023/07 - present) 
 
-* Lead team of 10 to oversee conception, requirement gathering, documentation and rollout.
-* Conduct troubleshooting, analysis and support. Gather user feedback, document bugs and change requests.
+* Maintaining equipment (Windows laptops, Linux machines, virtual windows machines, wireless testing devices, hardware, firewalls, and training equipment).
+* Configuration and deployment of virtual and physical Windows and Linux machines to support the delivery of customer facing projects.
+* Overseeing Malaysia office network, including providing physical support at the Petaling Jaya office.
+* On-boarding new staff onto Windows laptops.
+* Management of internal registers, logs, and backups, and testing these systems for DR and BCP.
+* Providing support to other regional labs and networks in conjunction with regional colleagues.
+* Working alongside a variety of people of all skill levels, from recent starters to some of Intertek NTA’s most senior consultants and testers.
 
-#### Second Company (System Analyst, 2011/06 - 2015/07) 
 
-* Led team of 5 for application development
-* Coordinated with developers, support staff and vendors across Hong Kong, China, Taiwan
+#### Maxis Business (SNOC Support Engineer Associate, 2022/01 - 2023/07) 
 
-#### My first Company (Analyst Programmer, 2005/01 - 2011/05)
+* 24x7x365 Monitoring , Surveillance, Support , Troubleshooting and Analysis of customer network and security environments.
+* Owned ISO27K Asset Management and Operations Process.
+* Participated in external/internal penetration testing as per organizational requests, utilizing tools such as Kali Linux, Nessus , OpenVas, BurpSuite Professional etc.
+* Performed 1st level configuration and troubleshooting of DNS (Bind9) , OSPF , Routing, VLANs, Wireless WAN, Mikrotik Routers, Firewalls Policies, IPSec VPN. 
+* Prepared monthly and ad-hoc uptime , utilization and bandwidth reports and weekly threat digests as per organizational and customer needs.
+* To own the authority of SR/Issue ticket and make sure ticket response time and follow up to meet SOP among Internal engineering team, customer and Sales
 
-* Develop multiple applications using Javascript, Java, PHP, Powerbuilder, Oracle
 
-## Projects: 
+#### MyKRIS Asia Sdn Bhd (Intern, 2021/09 - 2022/01)
+
+* 24x7x365 Monitoring , Surveillance, Support , Troubleshooting and Analysis of customer network and security environments.
+* Prepared monthly and ad-hoc uptime , utilization and bandwidth reports as per customer and business needs.
+* Experienced in the usage of the following monitoring systems - PRTG , Wazuh , NetFlow, Silverpeak Orchestrator.
+
+
+## Personal Projects and Lab Environment: 
 
 * [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
 * [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
 
 ## Education & Qualifications
 
-* AWS Certification (2021/12)
-* Oracle Certified Professional (2020/02)
-* Project Management Professional (PMP) (2018/10)
-* Bachelor of Computer Science (Sep 2004)
-* The Chinese University of Hong Kong (2000 - 2004)
+* Diploma in Computer Science - Universiti Teknologi Mara (2019-2021)
+* CompTIA Security+ (2022)
+* AWS Solutions Architect Associate (2024)
 
 ## Misc. Information
 
-* Languages: English (good), Cantonese (fluent/native), Mandarin (good)
+* Languages: English (Fluent), Bahasa Malaysia (fluent/native), Mandarin (Good enough)
 * Availability: 1 month's notice
