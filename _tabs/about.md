@@ -2,16 +2,10 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+toc: true
 ---
 
-# Casualwriter  
-
-## Executive Summary
-
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+# Nerd
 
 ## Working Experience
 
@@ -45,8 +39,8 @@ order: 4
 
 ## Personal Projects and Lab Environment: 
 
-* [Casual-Markdown](https://github.com/casualwriter/powerpage) - a lightweight markdown parser
-* [Powerpage](https://github.com/casualwriter/powerpage) - a lightweight browser for html applications
+*
+*
 
 ## Education & Qualifications
 
