@@ -24,4 +24,3 @@ Well the fix would be to just subscribe to a DDNS service like duckdns or no-ip 
 
 Well I don't feel like doing that, I wanted a way to do it directly through Cloudflare and I found out that you could with a simple docker container! Namely cloudflare-ddns by oznu , granted it hasn't been updated for 2 years. Take that as you will. 
 
-![Alt text](image-1.png)
